@@ -1,0 +1,2 @@
+# synthetica
+Synthetica Page
